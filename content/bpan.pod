@@ -1,0 +1,3 @@
+=head1 BPAN - An Acmeist CPAN
+
+BPAN is cool
