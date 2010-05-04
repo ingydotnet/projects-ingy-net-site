@@ -1,6 +1,8 @@
+^ Ingy döt Net's Web Sites
+
 This is a handy list of URLs to all the web sites I maintain:
 
-^^^ Ingy
+^^^ Ingy.Net
 
 * http://ingy.net
 * http://projects.ingy.net
